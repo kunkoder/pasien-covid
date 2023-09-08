@@ -43,6 +43,7 @@ cd pasien-covid
 
 **Home**
 ![alt text](https://raw.githubusercontent.com/kunkoder/pasien-covid/main/images/preview-home.jpg)
+<img src="https://raw.githubusercontent.com/kunkoder/pasien-covid/main/images/preview-home.jpg" alt="drawing" width="200"/>
 
 **Pasien**
 ![alt text](https://raw.githubusercontent.com/kunkoder/pasien-covid/master/images/preview-pasien.jpg)
