@@ -41,16 +41,16 @@ cd pasien-covid
 
 ## :eyes: Preview
 
-**Home**
+**Home**<br>
 <img src="https://raw.githubusercontent.com/kunkoder/pasien-covid/main/images/preview-home.jpg" alt="drawing" width="250"/>
 
-**Pasien**
+**Pasien**<br>
 <img src="https://raw.githubusercontent.com/kunkoder/pasien-covid/master/images/preview-pasien.jpg" alt="drawing" width="250"/>
 
-**Pengembang**
+**Pengembang**<br>
 <img src="https://raw.githubusercontent.com/kunkoder/pasien-covid/main/images/preview-pengembang.jpg" alt="drawing" width="250"/>
 
-**Detail**
+**Detail**<br>
 <img src="https://raw.githubusercontent.com/kunkoder/pasien-covid/main/images/preview-detail.jpg" alt="drawing" width="250"/>
 
 ## :balance_scale: Lisensi
