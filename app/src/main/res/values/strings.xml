@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Pasien Covid-19</string>
+    <integer-array name="data_foto">
+        <item>@drawable/pasien1</item>
+        <item>@drawable/pasien4</item>
+        <item>@drawable/pasien2</item>
+        <item>@drawable/pasien5</item>
+        <item>@drawable/pasien3</item>
+        <item>@drawable/pasien4</item>
+        <item>@drawable/pasien2</item>
+        <item>@drawable/pasien5</item>
+        <item>@drawable/pasien3</item>
+        <item>@drawable/pasien1</item>
+    </integer-array>
+    <string-array name="data_nama">
+        <item>Zuan Alfardian</item>
+        <item>Maulana Rafli</item>
+        <item>Widya Pawesti</item>
+        <item>Rima Karimah</item>
+        <item>Ilham Saputra</item>
+        <item>Rizal Setiawan</item>
+        <item>Aisyah Almaidef</item>
+        <item>Lavina Elmazaya</item>
+        <item>Aditya Pratama</item>
+        <item>Budi Wahono</item>
+    </string-array>
+    <string-array name="data_jk">
+        <item>Laki - laki</item>
+        <item>Laki - laki</item>
+        <item>Perempuan</item>
+        <item>Perempuan</item>
+        <item>Laki - laki</item>
+        <item>Laki - laki</item>
+        <item>Perempuan</item>
+        <item>Perempuan</item>
+        <item>Laki - laki</item>
+        <item>Laki - laki</item>
+    </string-array>
+    <string-array name="data_usia">
+        <item>35</item>
+        <item>58</item>
+        <item>22</item>
+        <item>64</item>
+        <item>28</item>
+        <item>35</item>
+        <item>58</item>
+        <item>21</item>
+        <item>72</item>
+        <item>98</item>
+    </string-array>
+    <string-array name="data_rs">
+        <item>RSUD Kota Bogor</item>
+        <item>RS Azra</item>
+        <item>RS Sentra Medika</item>
+        <item>RSPAD Atang Sanjaya</item>
+        <item>RS Siloam</item>
+        <item>RSUD Kota Bogor</item>
+        <item>RS Azra</item>
+        <item>RS Sentra Medika</item>
+        <item>RS Siloam</item>
+        <item>RSPAD Atang Sanjaya</item>
+    </string-array>
+    <integer-array name="dev_foto">
+        <item>@drawable/profile1</item>
+        <item>@drawable/profile2</item>
+        <item>@drawable/profile3</item>
+    </integer-array>
+    <string-array name="dev_nama">
+        <item>Gema Nur Sidik</item>
+        <item>Faiz Azizul Zabar</item>
+        <item>Miftah Irfan Basuki</item>
+    </string-array>
+    <string-array name="dev_npm">
+        <item>gemansidik@gmail.com</item>
+        <item>faizabar@gmail.com</item>
+        <item>miftahir@gmail.com</item>
+    </string-array>
+
+</resources>
